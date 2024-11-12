@@ -17,4 +17,4 @@ $produk2->stok = 40;
 
 print_r($produk1);
 echo "<br>";
-print_r($produk1);
+print_r($produk2);
